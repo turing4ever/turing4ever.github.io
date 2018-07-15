@@ -1,0 +1,108 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+bin/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+test_results*.xml
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
+# Rope
+.ropeproject
+
+# Django stuff:
+*.log
+*.pot
+
+# Sphinx documentation
+docs/_build/
+
+# Vagrant stuff
+.vagrant/
+
+#Report UI generated files
+reportui/reportui/static/plots/*.png
+
+#Node Modules
+node_modules
+
+# JetBrains stuff
+.idea/
+*.iml
+
+# Opt presentations
+model/presentations/opt_summary/slides/images/*.png
+model/presentations/opt_summary/slides/slides.html
+model/presentations/opt_summary/slides/slides.pdf
+.Rproj.user
+
+# local config
+openmail_common/config_local.py
+
+*.DS_Store
+.DS_Store
+.localized
+
+# geo ip files
+GeoIPCity.dat
+GeoIPISP.dat
+GeoIPOrg.dat
+GeoIP2-City.mmdb
+GeoIP2-ISP.mmdb
+
+# Visual Studio Code related ignores
+.vscode
+.spyproject
+
+# Sass
+.sass-cache
+yahoo/app/layout/css/*.css.map
+google/app/layout/css/*.css.map
+
+# Sublime
+*.sublime-project
+
+# VirtualEnv
+.ve
+.ve3
+.python-version
+jpan/virtual_env/
+
+# Terraform
+.terraform
