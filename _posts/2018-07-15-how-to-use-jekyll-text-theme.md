@@ -4,7 +4,7 @@ key: 20180715
 tags: jekyll howto
 ---
 Documentations on the jekyll-text-theme [official site](https://tianqi.name/jekyll-TeXt-theme/docs/en/quick-start)
-outlines three ways of running a site on github with jekyll-text-theme:  
+outline three ways of running a site on github with jekyll-text-theme:  
  1. Copy & paste the source code into your own repo.
  2. Fork and reuse the source code of the theme. 
  3. Install the theme as a gem. 
