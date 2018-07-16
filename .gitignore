@@ -106,3 +106,8 @@ jpan/virtual_env/
 
 # Terraform
 .terraform
+
+#jekyll
+_site/
+_posts/_site/
+.jekyll-metadata
