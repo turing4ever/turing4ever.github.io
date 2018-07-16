@@ -8,8 +8,6 @@ titles:
 key: page-about
 ---
 
-Just say something about yourself. :+1:
+This is my blog on data and software engineering. 
 
-{% highlight javascript %}
-(() => console.log('hello, world!'))();
-{% endhighlight %}
+
