@@ -8,6 +8,6 @@ titles:
 key: page-about
 ---
 
-This is my blog on data and software engineering. 
+This is my personal blog on things that matter, such as data and software engineering. 
 
 
