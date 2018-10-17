@@ -191,3 +191,7 @@ plugins:
   - jekyll-sitemap
   - jemoji
   - jekyll-remote-theme
+
+
+## favicon
+favicon: /assets/favicon.ico
