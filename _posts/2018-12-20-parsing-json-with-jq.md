@@ -49,4 +49,4 @@ Then you will get the results in a JSON format
   "c3.xlarge": 1
 }
 ````
-`jq` is a very powerful tool that can enable you to do anything you want to JSON. I will write more notes on how to make wonders happen with this library.   
+`jq` is a very powerful tool that can make wonders happen to JSON. I will write more notes on it.   
