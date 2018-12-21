@@ -8,6 +8,6 @@ titles:
 key: page-about
 ---
 
-This is my personal blog on things that matter. 
+A blog on things that matter. 
 
 
