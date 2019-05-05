@@ -37,4 +37,5 @@ git push origin +bb333333^:remote_branch_name
 in which `bb333333` is the commit id of last commit in `remote_branch_name`, caused by your foolish `push`. The command here 
 forces the remote branch to the parent of `bb333333`. 
 
-With forgiveness from `git`, you can save yourself some headache by using tricks above.   
+With forgiveness from `git`, you can save yourself some headache by using tricks above. You still need to discipline 
+yourself to use `commit` and `push` strategically so that in your panic moment, `git` can turn the clock back for you.
