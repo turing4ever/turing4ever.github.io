@@ -4,49 +4,37 @@ key: 20190504
 tags: git github 
 ---
 
-[jq](https://stedolan.github.io/jq/) is a command line tool for querying and manipulating JSON. This article will use
-an example to demonstrate how to use it to parse JSON. 
+Writing code sometimes is like hiking on a trail, especially at a point where you really wish you could go back but could't. 
+It's a blessing that `git` allows you to do what's impossible in the physical world if you can use it properly. 
 
-Suppose you have a few EC2 instances running in AWS and you would like to get an overview of how many instances are there for each type. How would you approach it?
 
-First of all, you run the `aws` command from cli and get a JSON file from AWS. 
+_Scene 1_
+
+You just edited a bunch of files in a directory but you haven't committed anything yet. Unfortunately you realize that what you 
+have written in the last 15 minutes was completely brain fart. Instead of burning all your manual scripts, you do this: 
 ```bash
-aws ec2 describe-instances > ec2.json 2>&1
-```    
-Now, you have this `ec2.json` file with all the information about your EC2 instances. 
-You need to figure out a way to parse the JSON file and do some aggregation. Like using a SQL query, you need to group the instances by type and count them. 
+git reset --hard
+```     
 
-Luckily, AWS is kind enough to output the JSON file in a pretty format, meaning every key-value pair is in its own line. This makes it easy to use `Bash` tools to parse it. 
-```Bash
-cat ec2.json | grep InstanceType | sort | uniq -c
-```
-Quick and easy. 
+_Scene 2_
 
-However, what if the JSON is not in a pretty format? What if the output still has to be in JSON format?
-In that case, you need `jq`. 
+Like in Scene 1, your brain farted, but you have committed locally! `git reset --hard` can't save you this time. 
+In order to discard your last commit, you do this: 
+```bash
+git revert bb248d23
+``` 
+in which `bb248d23` is the commit id of your last commit. This command will make another commit to undo what you have edit 
+in your last commit. 
 
-Same solution using `jq`: 
-```Bash
-map({Type: ..|objects|select(has("InstanceType")).InstanceType})
-| group_by(.Type)
-| map({key: .[0].Type, value: length})
-| sort_by(-.value)
-| from_entries
-```
-You can do it in a one liner but I prefer to save it into a script (`cnt.jq`) and run the script: 
-```Bash
-jq -f cnt.jq ec2.json
-```
-Then you will get the results in a JSON format 
-````JSON
-{
-  "r4.xlarge": 143,
-  "t3.small": 6,
-  "t2.2xlarge": 4,
-  ...
-  "c4.8xlarge": 1,
-  "t3.nano": 1,
-  "c3.xlarge": 1
-}
-````
-`jq` is a very powerful tool that can make wonders happen to JSON. I will write more notes on it.   
+
+_Scene 3_
+
+You smoked something and you took one step further than Scene 2. You **pushed** to remote! Can you still regret and go back?
+Yes, you do this to discard the last commit in a remote branch:
+```bash
+git push origin +bb333333^:remote_branch_name
+``` 
+in which `bb333333` is the commit id of last commit in `remote_branch_name`, caused by your foolish `push`. The command here 
+forces the remote branch to the parent of `bb333333`. 
+
+With forgiveness from `git`, you can save yourself some headache by using tricks above.   
