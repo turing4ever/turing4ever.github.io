@@ -111,4 +111,7 @@ jpan/virtual_env/
 _site/
 _posts/_site/
 .jekyll-metadata
+.jekyll-cache
 .sass-cache
+vendor
+!.idea/
