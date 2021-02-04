@@ -5,7 +5,7 @@ tags: postgres SQL
 ---
 I ran into a weird puzzle today when comparing two timestamps in postgres. 
 Take a look at following queries: 
-```SQL
+```sql
 select sum(metric)
 from table_name
 where lower(dt_range) < '2021-01-06 00:00:00+00'
@@ -36,7 +36,7 @@ The string '2021-01-06' will be treated as a sting of timestamp without timezone
 - Convert to eastern time. 
 
 Maybe it will look more obvious in following queries: 
-```Bash
+```shell
 =# set timezone to 'America/New_York';
 =# select timestamptz('2021-01-06');
       timestamptz
