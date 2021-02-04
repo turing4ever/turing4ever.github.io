@@ -20,7 +20,7 @@ where lower(dt_range) < '2021-01-06 00:00:00+00'
 and lower(dt_range) >= '2021-01-05 00:00:00+00' 
 ;
 ```
--- here lower(dt_range) is timestamptz type and in eastern timezone. 
+-- here `lower(dt_range)` is `timestamptz` type and in eastern timezone. 
 
 Those two queries produce different results. Why?   
 
@@ -29,14 +29,15 @@ The culprit here is the timezone in implicit type conversion.
 
 First of all, when postgres compares two values they should be the same type, 
 postgres sometimes will implicitly convert one type into another to facilitate comparison. 
-In our example here, timestamp strings will be implicitly converted into timestamptz.
+In our example here, timestamp strings will be implicitly converted into timestamptz.  
+
 Secondly, the '+00' in '2021-01-06 00:00:00+00' will be treated as explicitly setting timezone to UTC. 
 The string '2021-01-06' will be treated as a sting of timestamp without timezone and then the actual conversion happens in two steps: 
 - Append default timezone to the timestamp.
 - Convert to eastern time. 
 
 Maybe it will look more obvious in following queries: 
-```console
+```shell
 =# set timezone to 'America/New_York';
 =# select timestamptz('2021-01-06');
       timestamptz
@@ -54,3 +55,4 @@ Maybe it will look more obvious in following queries:
 ------------------------
  2021-01-05 16:00:00-08
 ```
+
