@@ -37,7 +37,7 @@ The string '2021-01-06' will be treated as a sting of timestamp without timezone
 - Convert to eastern time. 
 
 Maybe it will look more obvious in following queries: 
-```shell
+```bash
 =# set timezone to 'America/New_York';
 =# select timestamptz('2021-01-06');
       timestamptz
