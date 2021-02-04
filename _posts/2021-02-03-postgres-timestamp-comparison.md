@@ -52,4 +52,5 @@ Maybe it will look more obvious in following queries:
 =# select timestamptz('2021-01-06 00:00:00+00');
       timestamptz
 ------------------------
+ 2021-01-05 16:00:00-08
 ```
