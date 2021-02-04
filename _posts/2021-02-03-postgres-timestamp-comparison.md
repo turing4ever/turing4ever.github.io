@@ -16,8 +16,8 @@ and
 ```sql
 select sum(metric)
 from table_name
-where lower(dt_range) < '2021-01-06 00:00:00+00'
-and lower(dt_range) >= '2021-01-05 00:00:00+00' 
+where lower(dt_range) < '2021-01-06'
+and lower(dt_range) >= '2021-01-05' 
 ;
 ```
 -- here `lower(dt_range)` is `timestamptz` type and in eastern timezone. 
