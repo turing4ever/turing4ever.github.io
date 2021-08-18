@@ -8,6 +8,6 @@ titles:
 key: page-about
 ---
 
-A blog on things that matter. 
+A blog on random things that temporarily mattered. 
 
 
