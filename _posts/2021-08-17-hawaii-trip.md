@@ -52,8 +52,7 @@ I thought my son's stomach was empty after the vomit, but I was wrong. A few mil
 ### Numb hand and shattered butt
 At the end of trip, my wife told me that it was the first that she felt her hand numb on a road trip. She rest her arm on the armrest and the car shoot all the way on the unpaved road. After a couple of hours, her hand became numb. My hands were holding the wheel tight all the time and I was too focused on not letting the car fall off the cliff or into the ocean, I didn't feel numb in my hands. But at the end of the trip, I did spend 15 minutes searching on the carpet and below the seat for the pieces from my shattered butt, and putting them back together.    
 The verdict? The Cadillac XT4 we rented wasn't really very comfortable and didn't handle the winding mountain road very well. But we were glad that we didn't rent a Jeep for this trip, otherwise my wife's hand and my butt would become casualties.  
-<iframe width="420" height="315" src="http://datadrivenway.com/media/2021_maui_road_to_hana_driving.mov" frameborder="0" allowfullscreen></iframe>
-
+<div>{%- include extensions/youtube.html id='QsTbUJDjVkk' -%}</div>
 # Big Island
 ## Kulaniapia Fall
 ## Helicopter Tour
