@@ -53,10 +53,53 @@ I thought my son's stomach was empty after the vomit, but I was wrong. A few mil
 At the end of trip, my wife told me that it was the first that she felt her hand numb on a road trip. She rested her arm on the armrest and the car shoot all the way on the unpaved road. After a couple of hours, her hand became numb. My hands were holding the wheel tight all the time and I was too focused on not letting the car fall off the cliff or into the ocean, I didn't feel numb in my hands. But at the end of the trip, I did spend 15 minutes searching on the carpet and below the seat for the pieces from my shattered butt, and putting them back together.    
 The verdict? The Cadillac XT4 we rented wasn't really very comfortable and didn't handle the winding mountain road very well. But we were glad that we didn't rent a Jeep for this trip, otherwise my wife's hand and my butt would become casualties.  
 <div>{%- include extensions/youtube.html id='QsTbUJDjVkk' -%}</div>
+
 # Big Island
-## Kulaniapia Fall
+## Kulaniapia Falls
+We stayed at a bed & breakfast style Inn at Kulaniapia Falls. Probably one of the most beautiful places I have ever been to. I'll let the pictures speak for it.  
+### Photo taken from the dining porch
+![Kulaniapia Falls](http://datadrivenway.com/media/2021_big_island_fulaniapia_falls.jpg)
+### Walking to the water fall
+<div>{%- include extensions/youtube.html id='LkR8GBW1aEM' -%}</div>
+### Video shot using DJI Maverick
+<div>{%- include extensions/youtube.html id='WQkzrBN119U' -%}</div>
+### Watchdog
+The hostess had a cat who always hung out in the front office and seemd not afraid of strangers at all. She called it watchdog. My son quickly made friends with it. 
+![Watchdog](http://datadrivenway.com/media/2021_big_island_fulaniapia_falls_watchcat.jpg)
+### Birds Late Night Concert
+I forgot to record the bird concert at night but here is one I recorded at the airport. Loud and beautiful sound. But imagine there are hundreds of them singing in your back yard!
+Because there was no AC, we had to keep the windows open. The first night, it was incredibly loud! Almost as if the birds are having a concert in the back yard all night long. 
+<div>{%- include extensions/youtube.html id='bg--hUFEJvk' -%}</div>
+
 ## Helicopter Tour
+<div>{%- include extensions/youtube.html id='vsQvrtV8Thg' -%}</div>
+
 ## Mauna Kea Summit
+7 years ago, my wife and I drove a Dodge to the top without feeling any altitude sickness. Or maybe we simply forgot about it. This time, it was just myself driving a Jeep up. My wife was staying at the visitor center with my son. As I climbed up and got closer to the top, the feeling of dizziness and heavy chest became more acute. The thought of getting really sick all by myself at the 14000 feet summit wasn't very pleasant. I quickly took a few pictures and rushed down hill. As I went down, all the syndromes of altitude sickness disappeared.  
+
+There was one funny episode on my way up. On the only road up hill parked a ranger's car. The ranger was inspecting all the vehicles going up. He stopped my white Jeep and pointed at the passenger's side: you got mud on your jeep, you have to clean up before you go up. I was caught by surprise. The ranger noticed my hesitation and insisted: this is our rules. Looking his Hawaiian face, I still felt puzzled but turned back. Using toilet papers, I wiped the mud off. Then he let me pass and said thank you. Initially I thought it might have something to do with local mythology and culture. Maybe the summit was considered sacred and mud on a white Jeep might be seen as disrespectful. Just like showing up in the court room wearing shorts. Later I learned that it was actually for environment protection.  
+
+We stayed at visitor center for stargazing. At dusk we saw people climbing a small hill nearby but decided not to join them because it's getting cold and we would prefer staying inside our car. That was the mistake No.1. After the stars emerged in the sky, we opened the roof of our Jeep and sat on top. My son was quite excited when he saw the sky full of stars. Sometimes, he burst out some Greek names that completely evaded me when he was staring at the constellations. Most likely he learned it at school or from some documentaries he watched. We tried to take photos using iPhone12 Mini. That was the mistake No.2. I mounted my iPhone12 Mini on a tiny tripod and placed them on the roof. While I was experimenting with the exposure seconds in the night mode. Mistake No.1 brought serious problems. Someone in the parking lot started their car! They are leaving! Jesus Christ! The amount of light pollution from their car made me a fool, hopelessly turning the mini iPhone away from their headlight and then tail light. We stayed until past 9 and waited for most people in the parking lot to leave. Finally, I was able to take some photo without interruptions. 
+
+
+As shown in the photo of the Milky Way below, iPhone can do it but you only get what you paid for. If you are serious about taking pictures of the night sky at Mauna Kea, you need to avoid my mistakes. Bring thick blankets, expensive cameras and climb that hill.  
+### Observatory on the top
+![Observatory](http://datadrivenway.com/media/2021_big_island_mk_observatory.jpg)
+### On the roof of Jeep with my son
+![Roof of Jeep](http://datadrivenway.com/media/2021_big_island_mk_roof_with_son.jpg)
+### Photo taken by iPhone12 Mini
+![Night Sky](http://datadrivenway.com/media/2021_big_island_mk_sky.jpg)
+
 ## Volcanoes National Park
+### Watching Waves
+![Watching Waves](http://datadrivenway.com/media/2021_big_island_national_park_son.jpg)
+### Lava Tube
+![Lava Tube](http://datadrivenway.com/media/2021_big_island_national_park_lavatube.jpg)
+
 ## Cross island road trip
 ![Cross Island Road Trip Map](http://datadrivenway.com/media/big_island_road_trip.png)
+On Sunday, before leaving for LAX, we wanted to drive to the west side of the island and try out some nice seafood. Shockingly, many of those restaurants were either only open for dinner or not open until next Tuesday. We were forced to pick an Asian fusion restaurant that was open all day. When we arrived, we found a fast food style place operated by Mexicans. The food wasn't too bad but I had fancy fish on my mind. I was still missing the fish I had in Kyoto a few years ago.   
+
+Well, the saving grace was that the driving wasn't boring at all. We were running into sunshine and rain within a few miles. Landscape changed quite a lot and wild animals showed up here and there. For a small portion of the road, we ran into clouds literally. As shown in the video below, it wasn't fog. We first saw the clouds hanging on the horizon and later drove right into them. And my Spotify just happened to be playing `The Ride of Valkyries` at that moment. Enjoy!
+<div>{%- include extensions/youtube.html id='VnvJT3Sy6rs' -%}</div>
+
