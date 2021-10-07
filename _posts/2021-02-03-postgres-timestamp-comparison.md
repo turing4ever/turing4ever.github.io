@@ -1,7 +1,7 @@
 ---
 title: Postgres SQL Timestamp Comparison Puzzle
 key: 2021-02-03
-tags: postgres SQL 
+tags: 
 ---
 I ran into a weird puzzle today when comparing two timestamps in postgres. 
 Take a look at following queries: 

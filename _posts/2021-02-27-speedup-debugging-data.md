@@ -1,7 +1,7 @@
 ---
 title: Speed up data debugging
 key: 2021-02-27
-tags: SQL data debug
+tags: 
 ---
 When you start debugging data issues, you typically: 
 1. Form a hypotheis on what's happening and trying to find some evidence to support or refute the hypothesis.

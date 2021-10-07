@@ -1,7 +1,7 @@
 ---
 title: Parsing JSON with JQ
 key: 20181220 
-tags: jq JSON 
+tags: 
 ---
 
 [jq](https://stedolan.github.io/jq/) is a command line tool for querying and manipulating JSON. This article will use

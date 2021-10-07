@@ -1,7 +1,7 @@
 ---
 title: How to replace favicon and logo
 key: 20181017
-tags: jekyll jekyll-text-theme howto
+tags: 
 ---
 If you are using jekyll-text-theme and hosting your blog on github, how do you customize the `favicon` and `logo` on the blog?
 Here are some instructions:

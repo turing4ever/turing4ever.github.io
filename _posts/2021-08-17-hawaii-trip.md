@@ -1,7 +1,11 @@
 ---
 title: 2021 Summer Vacation in Hawaii
 key: 2021-08-17
-tags: travel Hawaii Maui "Big Island"
+tags: 
+    - travel
+    - Hawaii
+    - Maui
+    - "Big Island"
 ---
 10 days on two islands: Maui and Big Island.  
 ![Trip Map](http://datadrivenway.com/media/hawaii_trip_2021.png)

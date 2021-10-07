@@ -1,7 +1,7 @@
 ---
 title: How to use jekyll-text-theme
 key: 20180715
-tags: jekyll howto
+tags: 
 ---
 Documentations on the jekyll-text-theme [official site](https://tianqi.name/jekyll-TeXt-theme/docs/en/quick-start)
 outline three ways of running a site on github with jekyll-text-theme:  

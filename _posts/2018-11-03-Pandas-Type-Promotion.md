@@ -1,7 +1,7 @@
 ---
 title: Pandas Type Promotion
 key: 20181017 
-tags: pandas data python
+tags: 
 ---
 If you are dealing with data in pandas, sooner or later you will run into some surprises: type promotion.
 
