@@ -2,6 +2,7 @@
 title: Hello World in GraphQL
 key: 2021-03-15
 tags: 
+published: false
 ---
 When you are learning a new programming language, you want to try out the simplest thing first.   
 In programming languages such as C or Python, you print out a stirng "hello world".   

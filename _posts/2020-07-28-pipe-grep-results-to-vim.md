@@ -2,6 +2,7 @@
 title: Pipe grep results into vim 
 key: 20200728
 tags: 
+published: false
 ---
 
 Sometimes you really need to copy the `grep` results into vim for further editing. And yes, you wish it could be done in one line. 
