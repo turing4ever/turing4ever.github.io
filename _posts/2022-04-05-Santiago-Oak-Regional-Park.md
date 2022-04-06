@@ -8,7 +8,9 @@ Last Saturday we went hiking in [Santiago Oaks Regional Park](https://www.google
 
 Most of the trails are short and easy. On the harder ones, we see a couple of mountain bikers going down hill, enjoying the speed and cool air. Lucy is definitely overwhelmed by the various smells on the trail and her nose is too busy inspecting each spot of animal waste, trees and leaves. She even had a taste of horse dump for the first time. Wife spot it and stopped Lucy when she just got the ball into her mouth. Unfortunately we forgot to ask Lucy how the taste was, so we couldn't share her opinion.     
 
-Speaking of horses, many of the families in the neighborhood have horses and the trails are shared by people, horses, dogs and bikes. On the trail, you can hear dog barking and roosters' cock-a-doo·dle-doos from the nearby homes. It definitely can give your the feelings of a rural village but it's merely 20 minutes away from the city of Irvine.  
+Speaking of horses, many of the families in the neighborhood have horses and the trails are shared by people, horses, dogs and bikes. On the trail, you can hear dogs barking and roosters' cock-a-doo·dle-doos from the nearby homes. It definitely can give your the feel of a rural village but it's merely 20 minutes away from the city of Irvine.  
+
+It was a nice hike and we certainly will revisit. 
 
 
 
