@@ -15,7 +15,7 @@ The entire trail is 9.8 miles, someday we will finish the whole thing.
 
 
 ## Photos from today
-### The creak
+### The creek
 ![The Creak](http://datadrivenway.com/media/Ice_house_canyon_trail/IMG_1654.jpeg)  
 ### Lucy dashing
 ![Lucy dashing](http://datadrivenway.com/media/Ice_house_canyon_trail/IMG_6365.jpeg)  
@@ -23,7 +23,7 @@ The entire trail is 9.8 miles, someday we will finish the whole thing.
 ![Lucy portrait](http://datadrivenway.com/media/Ice_house_canyon_trail/IMG_6394.jpeg)  
 ### Lucy and Ryan
 ![Lucy stays with Ryan](http://datadrivenway.com/media/Ice_house_canyon_trail/IMG_6383.jpeg)  
-### Lucy and Ryan having fun at the creak
+### Lucy and Ryan having fun at the creek
 <div>{%- include extensions/youtube.html id='WW2esSFVIts' -%}</div>  
 
 ## Photos from February
