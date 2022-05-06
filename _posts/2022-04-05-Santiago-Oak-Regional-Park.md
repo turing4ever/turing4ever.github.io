@@ -2,7 +2,7 @@
 title: Hiking in Santiago Oaks Regional Park
 key: 2022-04-05
 tags: 
-    - Hiking
+    - hiking
 ---
 Last Saturday we went hiking in [Santiago Oaks Regional Park](https://www.google.com/maps/place/Santiago+Oaks+Regional+Park/@33.8215337,-117.7761679,15z/data=!4m5!3m4!1s0x0:0x48165209d6782a29!8m2!3d33.8215337!4d-117.7761679). Last time we tried to hike there but failed to enter. It was during the Pandemic, we were blocked in a very long line of cars in front of the gate. It was said that the Park had rules to limit the number of people in the park. Therefore it seemed hopeless to wait. We returned without a hike. This time there was very few people there. Of course, the park was not supposed to be crowded when people have millions of places to go for the weekend. We appreciated the anecdotal evidence that the Pandemic is finally over.   
 

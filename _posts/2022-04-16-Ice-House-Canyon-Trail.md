@@ -2,7 +2,7 @@
 title: Ice House Canyon Trail
 key: 2022-04-16
 tags: 
-    - Hiking
+    - hiking
 ---
 Today we went hiking on [Ice House Canyon Trail](https://goo.gl/maps/4KyvYVwSyv1LiqvAA) in Mt Baldy.   
 
