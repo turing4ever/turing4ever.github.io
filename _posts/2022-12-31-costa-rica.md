@@ -26,9 +26,9 @@ After I forgot the time schedule suggested by Google Map, the car worked just fi
 <div>{%- include extensions/youtube.html id='4BLMw9hqmB4' -%}</div>
 
 # It's in the water 
-Besides the slower pace of everything, people there were nicer too. It's true that most of the people we interacted with were in the tourism industry, but that alone couldn't explain it. We also had a road trip in Mexico, it was a very different story. Same Spanish speaking, developing economy, heavily relying on tourism, Costa Ricans found peace but Mexicans did not. It really reminded me of our experience in Quebec. It must be something in the water. 
+Besides the slower pace of everything, people there were nicer too. It's true that most of the people we interacted with were in the tourism industry, but that alone couldn't explain it. We also had a road trip in Mexico, it was a very different story. Same Spanish speaking, developing economy, heavily relying on tourism, Costa Ricans found peace but Mexicans did not. It must be something in the water. 
 
-Even the dogs in Costa Rica were calmer. Dogs were casually walking on the street and crossing the road. You would rarely hear any barking. There was a scene when a dog was trying to cross the busy road, he tried but had to back off due to the heavy traffic. One driver stopped his car and waited for the dog to pass. The dog waited. The driver's arm reached out of the window and waved to the dog: go ahead! The dog still hesitated, as if saying: Nah, I'm not in a hurry. I couldn't help thinking: I should have brought Lucy here, she would love this place.    
+Even the dogs in Costa Rica were calmer. They were casually walking on the street and crossing the road. You would rarely hear any barking. There was a scene when a dog was trying to cross the busy road, he tried but had to back off due to the heavy traffic. One driver stopped his car and waited for the dog to pass. The dog waited. The driver's arm reached out of the window and waved to the dog: go ahead! The dog still hesitated, as if saying: Nah, I'm not in a hurry. I couldn't help thinking: I should have brought Lucy here, she would love this place.    
 
 
 
@@ -39,7 +39,7 @@ Even the dogs in Costa Rica were calmer. Dogs were casually walking on the stree
 One thing that really surprised us was how good the internet connections were. In most of the places we went to in Costa Rica, even on the trail, the mobile network coverage was good and speed was decent. Every hotel had high speed Internet. I can't remember how many times I checked into a hotel in US and the WiFi was just barely usable. Not in Costa Rica. I finished Yellow Stone Season 1 at night in three hotels (including a tree house) and never experienced buffering. Bravo! Whoever built the Internet infrastructure in Costa Rica did a great job.  
 
 # Peninsula Papagayo
-We spent a couple of days at the Andaz Costa Rica resort had a great time there. The hotel, scenery, and service were all impeccable. We had quite low expectation for food in Costa Rica, but that turned out just fine. 
+We spent a couple of days at the Andaz Costa Rica resort and had a great time there. The hotel, scenery, and service were all impeccable. We had quite low expectation for food in Costa Rica, but that turned out just fine. 
 
 ### The hotel
 ![The Hotel](http://datadrivenway.com/media/costa_rica/penesular-hotel_0349.jpeg)
@@ -102,7 +102,7 @@ Most of the goats were behind the fence. However, there was one little baby goat
 <div>{%- include extensions/youtube.html id='UBWwQmX_ABg' -%}</div>
 
 ### Cattle
-Despite such lethal long horns, cattle is very gentle. If I came to the zoo with no carrots, they would probably still lick my hands. 
+Despite the threatening long horns, cattle is very gentle. If I came to the zoo with no carrots, they would probably still lick my hands. 
 ![Cattle 1](http://datadrivenway.com/media/costa_rica/zoo_cattle_0503.jpeg)
 ![Cattle 2](http://datadrivenway.com/media/costa_rica/zoo_cattle_0510.jpeg)
 ![Cattle 3](http://datadrivenway.com/media/costa_rica/zoo_cattle_0628.jpg)
