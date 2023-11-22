@@ -17,7 +17,8 @@ This book is about parenting children with special needs: a son with autism and 
 and his wife struggle to raise their children. As the story unfolds, the author also offers a lot of introspection into his and his wife's childhood. The damages and struggles 
 in their own life also comes to play in their parenting. He also extrapolates: maybe everyone is broken in some way. 
 
-I can't agree more. Everyone has his own struggle. Sometimes, it's more open, sometimes, it's more hidden. Some more severe, others less. Somehow I think that's the fundamental reality of human experience.
+I can't agree more. Everyone has his own struggle. Sometimes, it's more open, sometimes, it's more hidden. Some more severe, others less so. 
+It's the fundamental reality of human experience.
 
 
 > **Life has a grim face**
