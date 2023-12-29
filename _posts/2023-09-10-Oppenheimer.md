@@ -1,7 +1,9 @@
 ---
 title: Oppenheimer and Oppenheimer
 key: 2023-09-10
-tags: book Oppenheimer
+tags: 
+  - book 
+  - Oppenheimer
 ---
 > **To appreciate is to judge**
 

@@ -1,7 +1,9 @@
 ---
 title: When breath becomes air 
 key: 2023-12-28
-tags: book "When breath becomes air"
+tags: 
+  - book 
+  - "When breath becomes air"
 ---
 
 > **If you are only working 8 hours a day, you are slacking**

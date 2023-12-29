@@ -1,7 +1,9 @@
 ---
 title: Reminiscences of a Stock Operator
 key: 2021-04-16
-tags: book 
+tags: 
+  - book
+  - "Reminiscences of a Stock Operator"
 ---
 
 Here is a great review of this book.(so I will skip writing another one)

@@ -3,7 +3,7 @@ title: An interesting trip to Leningrad 1941
 key: 2021-04-24
 tags: 
     - book
-    - City of Thieves
+    - "City of Thieves"
 ---
 City of Thieves[^1]. 1941, Leningrad. Facing death sentence, a 17 year old thief Lev and a Red Army deserter Kolya were given an impossible mission to redeem themselves. That was the story.  
 

@@ -3,7 +3,7 @@ title: 2022 Christmas Vacation in Costa Rica
 key: 2022-12-31
 tags: 
     - travel
-    - Costa Rica
+    - "Costa Rica"
 ---
 7 days in Costa Rica.  
 ![Trip Map](http://datadrivenway.com/media/costa_rica/costa-rica-trip-map.png)

@@ -1,7 +1,9 @@
 ---
 title: Raising a Thief 
 key: 2023-11-22
-tags: book "Raising a Thief"
+tags: 
+  - book 
+  - "Raising a Thief"
 ---
 > **There is NOT always a happy ending**
 
