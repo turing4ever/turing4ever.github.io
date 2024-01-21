@@ -6,7 +6,7 @@ tags: book "Chasing the light"
 
 > **So this is what this book is about -- that dream, the first forty, those years "whose margins fade for ever and forever" as we move. As a young man I never 
 > understood what the beautiful phrase from Tennyson meant. That was the one thought in the whole beautiful poem "Ulysses" that eluded my grasp. Now I know why.**
-
+https://www.youtube.com/watch?v=AP8JeJIXhB0
 
 
 > **Many people tell me time is the most valuable possession we have. I'm not sure I agree, because no story is ever straight. In traversing our life from youth
@@ -17,3 +17,4 @@ tags: book "Chasing the light"
 
 
 > **Salvador**
+https://www.youtube.com/watch?v=pY8rz2zGNek
