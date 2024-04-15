@@ -14,7 +14,7 @@ is another story, but it tells how much you enjoyed the journey.
 If there's only one thing I could remember from this trip, it should be the bullfighting. It's shockingly great. 
 Shocking is in the literal sense. Because none of us realize the bulls are actually dying in the bullring miserably. 
 We all have seen bull fighting photos and videos somewhere and somehow we never connected the dots between fighting and dying. 
-Until we sat in the bulling in Madrid and watched it with our own eyes.
+Until we sat in the bullring in Madrid and watched it with our own eyes.
 
 But I have to say if you only see bulls dying in a brutal sport you miss the point of bullfighting. It's a sacrificial ritual that celebrates human life. 
 In a cold afternoon in Las Ventas Bullring, the matador faces the thousand pound bull charging at him like a locomotive. 
