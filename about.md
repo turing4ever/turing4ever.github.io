@@ -8,6 +8,8 @@ titles:
 key: page-about
 ---
 
-A blog on random things that temporarily mattered. 
+A blog on random things that temporarily mattered.   
+
+
 You can reach me at turing4ever via Gmail. 
 
