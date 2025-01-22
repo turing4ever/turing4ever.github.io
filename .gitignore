@@ -63,7 +63,7 @@ reportui/reportui/static/plots/*.png
 node_modules
 
 # JetBrains stuff
-.idea/
+.idea
 *.iml
 
 # Opt presentations
@@ -115,4 +115,3 @@ _posts/_site/
 .sass-cache
 vendor
 Gemfile.lock
-!.idea/
