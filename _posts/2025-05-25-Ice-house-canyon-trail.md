@@ -8,6 +8,8 @@ tags:
 We have been visiting Mt Baldy and hiking on the trail for a while. But each time we stopped somewhere not very far from the trail head.
 This time, we made up our mind to finish the trail. Booked an Airbnb at the foot of Mt Baldy, we stayed there for one night and went on hiking the next day.
 The total length of the hike was about 10 miles, with an elevation gain of 2,500 feet. It took us about 6 hours to finish the hike, including many breaks and lunch on the trail.
+
+## The Map
 ![Tail Map](https://datadrivenway.com/media/2025_Ice_House_Canyon_Trail/map_ice_house_canyon_trail.PNG)
 
 ## Pictures   
