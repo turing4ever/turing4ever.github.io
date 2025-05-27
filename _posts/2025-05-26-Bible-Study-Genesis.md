@@ -1,6 +1,6 @@
 ---
 title: Bible Study - Genesis
-key: 2025-01-21
+key: 2025-05-26
 tags: 
     - Bible
     - "Genesis"
@@ -25,9 +25,9 @@ It was a perfect entry point for me with great timing. For I became old enough t
 one co-worker was a Christian and brought me to his church. I was sitting in the front row and almost fell asleep during the sermon. I was too young to hear any of the messages. 
 But now at mid-age, more experienced in life, I am able to hear it. And C.S Lewis did a great job giving a summary of what Christianity is.     
 
-I believe we all live in the story we created for ourselves. If the Bible is the greatest story ever told, then why shouldn't copy and paste some of it into my own story?
-I looked for local churches for a Bible study group and found one very close to my home. So far, the experiences were great. I go to Church every Sunday, 
-read a few pages of the Bible every day, and attend the study group on Friday. 
+I believe we all live in the story we created for ourselves. If the Bible is the greatest story ever told, then why shouldn't I copy and paste some of it into my own story?
+I looked for local churches for a Bible study group and found one very close to my home. So far, the experience was great. I go to Church every Sunday, 
+read a few pages of the Bible every day, and attend the study group on Friday evening. 
 
 Not trying to convert myself, but at least, I can plough through the Bible and become well versed in a few years.
 
@@ -48,3 +48,4 @@ about two chapters of Genesis.
 - Genesis 27, ![issac_bless_jacob](http://www.datadrivenway.com/media/bible/issac_bless_jacob.jpg)
 - Genesis 48, ![jacob_bless_children_of_joseph](http://www.datadrivenway.com/media/bible/jacob_bless_children_of_joseph.jpg)
 
+Déjà vu? Karma? God's plan? What went through Jacob's mind when he was in his dying bed?  
