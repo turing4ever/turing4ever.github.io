@@ -11,7 +11,7 @@ On the banks are the trees, tall and green.
 All of sudden, the purple takes over my eyes.   
 Vibrant and fresh, full of life.   
 They are the banners of summer.  
-From the podcast, he says he has living water.   
+He told the Samaritan woman that he has living water.   
 Is the living water purple?  
 
 
