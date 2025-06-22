@@ -8,11 +8,12 @@ tags:
 
 The traffic flows calmly through the boulevard.  
 On the banks are the trees, tall and green.   
-All of sudden, the purple takes over my eyes.   
+The purple jumps out and takes over above the windshield.   
 Vibrant and fresh, full of life.   
-They are the banners of summer.  
-He is telling the Samaritan woman that he has living water.   
-Is the living water purple?  
+The banners of summer.  
+In the car, he is telling the Samaritan woman:
+he has living water.   
+Wait, is the living water purple?  
 
 
 > **Driving on Jeffrey Boulevard in June, Jacaranda trees are blooming in purple. 
