@@ -17,6 +17,6 @@ Wait, is the living water purple?
 
 
 > **Driving on Jeffrey Boulevard in June, Jacaranda trees are blooming in purple. 
-I was listening to a podcast about the conversation between Jesus and the Samaritan woman at Jacob's well** 
+I was listening to a podcast about the conversation between Jesus and the Samaritan woman at Jacob's well.** 
 
 
