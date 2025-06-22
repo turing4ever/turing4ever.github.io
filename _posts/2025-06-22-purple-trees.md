@@ -11,7 +11,7 @@ On the banks are the trees, tall and green.
 The purple jumps out and takes over above the windshield.   
 Vibrant and fresh, full of life.   
 The banners of summer.  
-In the car, he is telling the Samaritan woman:
+In the car, he is telling the Samaritan woman:  
 he has living water.   
 Wait, is the living water purple?  
 
