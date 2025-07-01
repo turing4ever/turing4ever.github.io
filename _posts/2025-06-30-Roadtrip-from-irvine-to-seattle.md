@@ -5,7 +5,7 @@ tags:
     - travel
     - "2025 Roadtrip from Irvine to Seattle"
 ---
-We drove 3 days from Irvine to Seattle, stopping at Vegas and Idaho along the way. Because we are in a rush, we didn't stop at any attractions.
+We drove 3 days from Irvine to Seattle, stopping at Vegas and Boise along the way. Because we are in a rush, we didn't stop at any attractions.
 But the trip still brought us some pleasant surprises.
 
 ## The Map
