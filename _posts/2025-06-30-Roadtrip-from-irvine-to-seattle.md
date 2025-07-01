@@ -6,13 +6,13 @@ tags:
     - "2025 Roadtrip from Irvine to Seattle"
 ---
 We drove 3 days from Irvine to Seattle, stopping at Vegas and Idaho along the way. Because we are in a rush, we didn't stop at any attractions.
-But the trip still brought us some surprises.
+But the trip still brought us some pleasant surprises.
 
 ## The Map
 ![Road Map](https://datadrivenway.com/media/2025_irvine_to_seattle/road_map.png)
 
 ## Ready to go    
-- Lucy and Feynman are ready to go
+- We are ready to go.
 ![Cat Dog Ready](https://datadrivenway.com/media/2025_irvine_to_seattle/get_ready_to_go.jpeg)
 
 
@@ -40,25 +40,25 @@ They never get into real fights, but still they can make a scene. If that happen
 ![idaho6](https://datadrivenway.com/media/2025_irvine_to_seattle/Idaho_curious_Feynman_1.jpeg)
 ![idaho7](https://datadrivenway.com/media/2025_irvine_to_seattle/Idaho_curious_Feynman_2.jpeg)
 - An old fridge.  
-  I have never seen such a refrigerator except in movies. I suspect it's older than me. And it even works!   
+  I suspect it's older than me but it works!   
 ![idaho8](https://datadrivenway.com/media/2025_irvine_to_seattle/Idaho_old_fridge.jpeg)
 
 
 ## Everything works out in the end
 - We arrived in Seattle safely.  
 At one point, we almost got into trouble. One our way to Seattle, we left the farm in the morning. 
-After getting up, Ryan has been hanging out with the animals, and he gets into the car in the last minute. 
-Only half an hour later, Ryan told us he needs to go to the bathroom and it was urgent. So we stopped at a big gas station. 
-While Ryan going to the bathroom, something weird happened. The car complained the key fab was not in the car. The battery of the key fab was dead. 
-While I was not sure what to do, wife came up with a brilliant idea: turn off the car and turn it back on. 
-I turned off the car, and it wouldn't start again. Of course not, the battery of the key fab was dead. What do I do now? 
-It would be really unfortunate if we got stuck in the middle of nowhere. I removed the silver oxide battery from the key fab, and went to look for a new battery to buy in the store.
+After getting up, Ryan was hanging out with the animals, and he got into the car in the last minute. 
+Only half an hour later, Ryan told us he needs to go to the bathroom and it was an emergency. So we stopped at a big gas station. 
+While Ryan going to the bathroom, something weird happened. The car complained the key fab was not in the car. 
+The battery of the key fab was dead. While I was not sure what to do, wife came up with a brilliant idea: 
+turn off the car and turn it back on. I turned off the car, and it wouldn't start again. Of course not, 
+the battery of the key fab was dead. What do I do now? It would be really unfortunate if we got stuck in the middle of nowhere. 
+I removed the silver oxide battery from the key fab, and went to look for a new battery to buy in the store.
 To my surprise, the store had the exact battery I needed. Problem solved.   
-I told Ryan: you are a blessing to us, do you know that? If you didn't spend too much time with the animals, you wouldn't forget to pee before we left the farm.
-If you didn't need to pee, we wouldn't stop at this gas station. If we didn't stop at this gas station, we wouldn't be so close to the new battery when the old one died. 
+I told Ryan: you are a blessing to us, do you know that? If you didn't spend too much time with the animals, 
+you wouldn't forget to pee before we left the farm. If you didn't need to pee, 
+we wouldn't stop at this gas station. If we didn't stop at this gas station, 
+we wouldn't be so close to the new battery when the old one died. 
 With you being you, everything works out for us in the end.
-
-
-
 
 ![idaho9](https://datadrivenway.com/media/2025_irvine_to_seattle/Seattle_ocean_view.jpeg)
