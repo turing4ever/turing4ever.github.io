@@ -5,7 +5,7 @@ tags:
     - travel
     - "2025 Banff Roadtrip"
 ---
-It's the longest and most ambitious road trip we have ever done. A month and a half of adventure across the Pacific Northwest and Canadian Rockies, with family, pets, and countless memories along the way. We worked for two weeks in Seattle, spent 10 days driving to Banff and exploring the Canadian Rockies, came back to Seattle. Worked another two weeks in Seattle enjoying the summer activities, and then drove back to Irvine. I forgot to take a photo of the odometer, but I think we drove 5000+ miles across multiple states and provinces.
+It's the longest and most ambitious road trip we have ever done. A month and a half of adventure across the Pacific Northwest and Canadian Rockies, with family, pets, and countless memories along the way. We worked for two weeks in Seattle, spent 10 days driving to Banff and exploring the Canadian Rockies, came back to Seattle. Worked another two weeks in Seattle enjoying the summer activities, and then drove back to Irvine. 
 
 ## The Map
 ![Road Map](https://datadrivenway.com/media/2025_banff/2025_summer_roadtrip.png)
