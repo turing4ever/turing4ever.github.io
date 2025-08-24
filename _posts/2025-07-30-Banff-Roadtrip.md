@@ -1,5 +1,5 @@
 ---
-title: 2025 Banff Roadtrip
+title: 2025 Banff Road Trip
 key: 2025-07-30
 tags: 
     - travel
