@@ -5,11 +5,9 @@ tags:
     - travel
     - "2025 Banff Roadtrip"
 ---
-It's the longest road trip we have ever done. A month and a half of adventure across the Pacific Northwest and Canadian Rockies, with family, pets, and countless memories along the way.
+It's the longest and most ambitious road trip we have ever done. A month and a half of adventure across the Pacific Northwest and Canadian Rockies, with family, pets, and countless memories along the way. We worked for two weeks in Seattle, spent 10 days driving to Banff and exploring the Canadian Rockies, came back to Seattle. Worked another two weeks in Seattle enjoying the summer activities, and then drove back to Irvine. I forgot to take a photo of the odometer, but I think we drove 5000+ miles across multiple states and provinces.
 
 ## The Map
-This is the most ambitious road trip we have ever done. It took us a month and half to complete it.
-We worked for two weeks in Seattle, spent 10 days driving to Banff and exploring the Canadian Rockies, came back to Seattle. Worked another two weeks in Seattle enjoying the summer activities, and then drove back to Irvine. I forgot to take a photo of the odometer, but I think we drove 5000+ miles across multiple states and provinces.
 ![Road Map](https://datadrivenway.com/media/2025_banff/2025_summer_roadtrip.png)
 
 ## Journey Through the Wilderness
@@ -25,10 +23,10 @@ The father deer, standing guard and watching us curiously.
 A tender moment between mother and fawn.
 
 ![Deer Gathering](https://datadrivenway.com/media/2025_banff/Coeur_Dalene_deer_many.jpg)
-The whole family enjoying their peaceful afternoon. Ryan was absolutely mesmerized - he had never seen deer so close and so relaxed around humans.
+The whole family enjoying their peaceful afternoon. 
 
 ### Seven Stars Alpaca Ranch
-Still in the Coeur d'Alene area, we discovered Seven Stars Alpaca Ranch. This wasn't planned, but sometimes the best adventures are the spontaneous ones.
+Still in the Coeur d'Alene area, we discovered Seven Stars Alpaca Ranch. 
 
 ![Ryan and Goat](https://datadrivenway.com/media/2025_banff/seven_stars_alpaca_ranch_Ryan_saying_hello_to_goat.jpg)
 Ryan immediately made friends with this curious goat. The animals at the ranch were incredibly friendly and well-socialized.
@@ -37,7 +35,7 @@ Ryan immediately made friends with this curious goat. The animals at the ranch w
 The alpacas were the stars of the show. Their fluffy coats and curious expressions won our hearts immediately.
 
 ## Going to the Sun Road - Glacier National Park
-From Idaho, we continued into Montana where the highlight of our mountain driving was definitely the Going to the Sun Road in Glacier National Park. This engineering marvel winds through some of the most spectacular scenery in North America.
+From Idaho, we continued into Montana where the highlight of our mountain driving was definitely the Going to the Sun Road in Glacier National Park. 
 
 ![Forest Road](https://datadrivenway.com/media/2025_banff/going_to_the_sun_road_in_the_forest.jpg)
 The road through the forest felt like driving into a fairy tale.
@@ -54,19 +52,10 @@ The road conditions changed dramatically as we climbed higher. Sometimes we coul
 When the clouds cleared, the views were absolutely breathtaking.
 
 ## Banff National Park - The Crown Jewel
-After Montana, we crossed into Canada and reached our main destination: Banff National Park. The Canadian Rockies exceeded all our expectations.
-
-<div>{%- include extensions/youtube.html id='gaW-X2E6EW0' -%}</div>
-
-<div>{%- include extensions/youtube.html id='hqi5bOcIX4g' -%}</div>
-
-<div>{%- include extensions/youtube.html id='Ba5KqhVASn0' -%}</div>
-
-The videos above capture just a glimpse of the majesty we experienced in Banff. No photo or video can truly convey the scale and beauty of the Canadian Rockies, but these moments give you a sense of why this place is considered one of the world's great natural wonders.
+After Montana, we crossed into Canada and reached our main destination: Banff National Park.
 
 ### Banff Town and Highway Adventures
 ![Banff Town Center](https://datadrivenway.com/media/2025_banff/banff_town_center_word.jpg)
-The charming town of Banff served as our home base for exploring the park.
 
 ![Banff Highway 1](https://datadrivenway.com/media/2025_banff/banff_highway_1.jpg)
 ![Banff Highway 2](https://datadrivenway.com/media/2025_banff/banff_highway_2.jpg)
@@ -77,53 +66,50 @@ The highways through Banff offered non-stop spectacular scenery at every turn.
 We were blessed with a double rainbow during one of our drives - a magical moment that felt like nature's welcome gift.
 
 ![Mountain in the Clouds](https://datadrivenway.com/media/2025_banff/banff_highway_mountain_in_the_clounds.jpg)
-Mountains disappearing into clouds created an ethereal landscape that looked almost otherworldly.
 
 ![Highway Ram](https://datadrivenway.com/media/2025_banff/banff_highway_ram_2.jpg)
-Wildlife sightings were common - this majestic ram posed for us right along the highway.
 
-![Chihuahua State Sign](https://datadrivenway.com/media/2025_banff/banff_highway_chihuahua_state.jpg)
-We found this amusing road sign - apparently we were as far from Mexico as you can get!
+![Chihuahua State](https://datadrivenway.com/media/2025_banff/banff_highway_chihuahua_state.jpg)
+We saw this license plate from Chihuahua State. 
 
 ### Lake Louise - The Jewel of the Rockies
 ![Lake Louise Overview](https://datadrivenway.com/media/2025_banff/banff_lake_louise.jpg)
-Lake Louise is perhaps the most famous lake in Banff, and it lived up to every expectation.
 
 ![Lake Louise Canoeing 1](https://datadrivenway.com/media/2025_banff/banff_lake_louise_canoeing_0.jpg)
 ![Lake Louise Canoeing 2](https://datadrivenway.com/media/2025_banff/banff_lake_louise_canoeing_1.jpg)
 ![Lake Louise Canoeing 3](https://datadrivenway.com/media/2025_banff/banff_lake_louise_canoeing_2.jpg)
 ![Lake Louise Canoeing 4](https://datadrivenway.com/media/2025_banff/banff_lake_louise_canoeing_3.jpg)
 ![Lake Louise Canoeing 5](https://datadrivenway.com/media/2025_banff/banff_lake_louise_canoeing_4.jpg)
-Canoeing on Lake Louise was the experience of a lifetime. The turquoise water, surrounded by towering peaks and glaciers, created a setting so beautiful it almost seemed unreal.
 
 ![Lucy at Lake Louise](https://datadrivenway.com/media/2025_banff/banff_lake_louise_lucy.jpg)
 ![Lucy and Me at Lake Louise](https://datadrivenway.com/media/2025_banff/banff_lake_louise_lucy_and_me.jpg)
-Even Lucy was mesmerized by the beauty of Lake Louise. These photos capture some of our most treasured family moments.
 
 ### Bow Lake Adventures
 ![Bow Lake Clean](https://datadrivenway.com/media/2025_banff/banff_bow_lake_clean_lake.jpg)
-Bow Lake offered a more peaceful alternative to the crowds at Lake Louise, with equally stunning scenery.
 
 ![Bow Lake Green](https://datadrivenway.com/media/2025_banff/banff_bow_lake_green.jpg)
 The emerald green waters of Bow Lake were mesmerizing.
 
 ![Bow Lake Hike](https://datadrivenway.com/media/2025_banff/banff_bow_lake_hike.jpg)
-The hiking trails around Bow Lake provided incredible vantage points.
 
 ![Bow Lake Grass Flower](https://datadrivenway.com/media/2025_banff/banff_bow_lake_grass_flower.jpg)
-Even the smallest details - like these delicate mountain flowers - added to the magic of the experience.
 
 ![Bow Lake Photo Shoot](https://datadrivenway.com/media/2025_banff/banff_bow_lake_photo_shoot.jpg)
-We couldn't resist an impromptu family photo session with this incredible backdrop.
+
+<div>{%- include extensions/youtube.html id='gaW-X2E6EW0' -%}</div>
 
 ### Bow River Canoeing
 ![Bow River Canoeing](https://datadrivenway.com/media/2025_banff/banff_bow_river_canoeing.jpg)
 ![Bow River Canoeing 2](https://datadrivenway.com/media/2025_banff/banff_bow_river_canoeing_1.jpg)
-The Bow River provided a different canoeing experience - more dynamic with gentle rapids and varying scenery along the way.
+
+
+
+
+<div>{%- include extensions/youtube.html id='hqi5bOcIX4g' -%}</div>
+
 
 ### Johnson Lake - Our Hidden Gem
 ![Johnson Lake](https://datadrivenway.com/media/2025_banff/banff_johnson_lake.jpg)
-Johnson Lake became one of our favorite discoveries - less crowded but equally beautiful.
 
 ![Johnson Lake Hike](https://datadrivenway.com/media/2025_banff/banff_johnson_lake_hike.jpg)
 The trail around Johnson Lake offered perfect family-friendly hiking.
@@ -131,7 +117,9 @@ The trail around Johnson Lake offered perfect family-friendly hiking.
 ![Lucy at Johnson Lake](https://datadrivenway.com/media/2025_banff/banff_johnson_lake_lucy.jpg)
 ![Lucy Fetching](https://datadrivenway.com/media/2025_banff/banff_johnson_lake_lucy_fetching.jpg)
 ![Lucy Going Fetching](https://datadrivenway.com/media/2025_banff/banff_johnson_lake_lucy_going_fetching.jpg)
-Johnson Lake became Lucy's playground. She loved fetching sticks in the crystal-clear mountain water, and we loved watching her pure joy.
+
+<div>{%- include extensions/youtube.html id='Ba5KqhVASn0' -%}</div>
+
 
 ### Canmore E-bike Adventure
 ![E-bike Tour Elk](https://datadrivenway.com/media/2025_banff/banff_canmore_ebike_tour_elk.jpg)
@@ -149,20 +137,20 @@ The Athabasca Glacier was a highlight of our Banff experience. You need an APC (
 Ryan was awestruck standing before these ancient ice formations. The scale of the glaciers is impossible to capture in photos - you have to experience it in person.
 
 ## White Rock & Vancouver Area
-From Banff, we made our way to the White Rock area near Vancouver. It was a perfect way to ease back into city life after all that mountain wilderness.
+From Banff, we made our way to the White Rock area near Vancouver. It was a very cozy little town. 
 
 ![White Rock Waterfront](https://datadrivenway.com/media/2025_banff/white_rock_by_the_water.jpg)
 The peaceful waterfront provided a stark contrast to the rugged mountains we'd been exploring.
 
 ![Street Walking](https://datadrivenway.com/media/2025_banff/white_rock_walking_on_the_street.jpg)
 ![Lucy on the Floor](https://datadrivenway.com/media/2025_banff/white_rock_lucy_on_the_floor.jpg)
-Even Lucy enjoyed the change of pace. She seemed to appreciate being back in a more urban environment.
+Even Lucy enjoyed the change of pace. 
 
 ![White Rock Zero Avenue](https://datadrivenway.com/media/2025_banff/white_rock_0_ave.jpg)
-One interesting discovery we made was that White Rock numbers its streets starting from 0 Avenue. We found this quite unusual - most cities start their street numbering from 1st. It's one of those small urban planning details that you only notice when you're paying attention.
+We found 0 Avenue. The city planner must have majored in CS. 
 
 ![Chinese Restaurant](https://datadrivenway.com/media/2025_banff/white_rock_Richmond_chinese_restaurant_dog_head.jpg)
-We found an excellent Chinese restaurant in Richmond. The food reminded us of home, and even this friendly restaurant dog seemed to welcome us.
+THere's only one reason why we wanted to visit Vancouver: the chinese restaurants.  *The food reminded us of home, and even this friendly restaurant dog seemed to welcome us.* (Cursor wrote this sentence and it's too funny to change it.)
 
 ## Seattle Summer Adventures
 After our Banff expedition, we spent several weeks in Seattle, taking full advantage of the Pacific Northwest summer.
@@ -174,8 +162,6 @@ We tackled the Jim Whittaker Wilderness Peak Trail - one of our more challenging
 ![Mt. Rainier](https://datadrivenway.com/media/2025_seattle_summer/mt_rainier.jpeg)
 The views of Mt. Rainier never get old. Every angle offers a different perspective of this majestic mountain.
 
-![Mt. Rainier Lake](https://datadrivenway.com/media/2025_seattle_summer/lake_mt_rainier Large.jpeg)
-Finding a lake with Mt. Rainier reflected in the water felt like discovering a hidden gem.
 
 ### Diablo Lake Vista
 ![Diablo Lake Vista 1](https://datadrivenway.com/media/2025_seattle_summer/diablo_lake_vista_point_1.jpeg)
@@ -197,6 +183,9 @@ Lucy always kept a watchful eye on other watercraft - she took her role as our c
 
 ![Light Reflection on Water](https://datadrivenway.com/media/2025_seattle_summer/lake_canoe_light_reflection_on_lake.jpg)
 The way light danced on the water during our Union Bay paddling adventures created magical moments throughout our Seattle summer.
+
+![Mt. Rainier Lake](https://datadrivenway.com/media/2025_seattle_summer/lake_mt_rainier.jpeg)
+When the sky is clear, you can see Mt Rainier from the Union Bay
 
 ### Olympic Peninsula Exploration
 ![Olympic Peabody Creek](https://datadrivenway.com/media/2025_seattle_summer/olympic_peabody_creek_loop.jpeg)
@@ -235,13 +224,3 @@ Wahkeena Falls provided the perfect opportunity to stretch our legs and experien
 ![Mercedes in the Mountains](https://datadrivenway.com/media/2025_banff/going_to_the_sun_glc300.jpg)
 Our Mercedes GLC 300 was the unsung hero of this entire adventure. When we started the trip, the odometer read around 68,000 miles. By the time we pulled back into our driveway in Irvine, we had reached 73,000 miles - a testament to the 5,000+ miles we covered across multiple states and provinces. 
 
-Throughout the entire journey, from mountain passes to city streets, from washboard roads to highway cruising, the car performed flawlessly. No mechanical issues, no breakdowns, no concerns. It handled the altitude changes, temperature variations, and diverse driving conditions with the reliability we needed for such an ambitious family road trip with pets in tow.
-
-## Reflections on the Road
-This trip taught us that the best adventures happen when you're open to the unexpected. From wildlife encounters in Idaho to alpaca farms we never planned to visit, from mountain roads that disappeared into clouds to peaceful lakes that became our temporary home base.
-
-The month and a half we spent on the road changed us as a family. Ryan learned that there's a big, beautiful world beyond our usual routine. Lucy and Feynman learned to adapt and find comfort in new environments. And we learned that home isn't just a place - it's wherever your family is, whether that's in a hotel room in Banff, a cabin by Lake Lucy, or the backseat of a Mercedes climbing mountain roads.
-
-As we pulled back into our driveway in Irvine, those 5,000+ miles on the odometer told only part of the story. The real distance we'd traveled couldn't be measured in miles - it was measured in memories, experiences, and the bonds we strengthened along the way.
-
-Would we do it again? In a heartbeat. The road is calling, and we're already planning our next adventure.
