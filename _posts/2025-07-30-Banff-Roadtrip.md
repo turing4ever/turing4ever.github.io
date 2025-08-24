@@ -76,11 +76,9 @@ We saw this license plate from Chihuahua State.
 ![Lake Louise Overview](https://datadrivenway.com/media/2025_banff/banff_lake_louise.jpg)
 
 ![Lake Louise Canoeing 1](https://datadrivenway.com/media/2025_banff/banff_lake_louise_canoeing_0.jpg)
-![Lake Louise Canoeing 2](https://datadrivenway.com/media/2025_banff/banff_lake_louise_canoeing_1.jpg)
-![Lake Louise Canoeing 3](https://datadrivenway.com/media/2025_banff/banff_lake_louise_canoeing_2.jpg)
-![Lake Louise Canoeing 4](https://datadrivenway.com/media/2025_banff/banff_lake_louise_canoeing_3.jpg)
-![Lake Louise Canoeing 5](https://datadrivenway.com/media/2025_banff/banff_lake_louise_canoeing_4.jpg)
-
+![Lake Louise Canoeing 2](https://datadrivenway.com/media/2025_banff/banff_lake_louise_canoeing_2.jpg)
+![Lake Louise Canoeing 3](https://datadrivenway.com/media/2025_banff/banff_lake_louise_canoeing_3.jpg)
+![Lake Louise Canoeing 4](https://datadrivenway.com/media/2025_banff/banff_lake_louise_canoeing_4.jpg)
 ![Lucy at Lake Louise](https://datadrivenway.com/media/2025_banff/banff_lake_louise_lucy.jpg)
 ![Lucy and Me at Lake Louise](https://datadrivenway.com/media/2025_banff/banff_lake_louise_lucy_and_me.jpg)
 
