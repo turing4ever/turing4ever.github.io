@@ -8,11 +8,11 @@ tags:
 
 The traffic flows calmly through the boulevard.  
 On the banks are the trees, tall and green.   
-The purple jumps out and takes over above the windshield.   
-Vibrant and fresh, full of life.   
-The banners of summer.  
+The purple gushes out, like fountain, takes over above the windshield.   
+Vibrant, fresh, full of life.   
+Whose royal color is that?  
 In the car, he is telling the Samaritan woman:  
-he has living water.   
+I have the living water.   
 Wait, is the living water purple?  
 
 
