@@ -8,7 +8,7 @@ tags:
 
 The traffic flows calmly through the boulevard.  
 On the banks are the trees, tall and green.   
-The purple gushes out, like fountain, takes over above the windshield.   
+The purple waterfall pours down from above.   
 Vibrant, fresh, full of life.   
 Whose royal color is that?  
 In the car, he is telling the Samaritan woman:  
