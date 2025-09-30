@@ -7,8 +7,8 @@ tags:
 ---
 
 The traffic flows calmly through the boulevard.  
-On both banks are the trees, tall and green.   
-The purple waterfall pours down.   
+On both banks are the tall and green trees.   
+The purple waterfall pours down above the windshield.   
 Vibrant, fresh, full of life.   
 Whose royal color is that?  
 In the car, he is telling the Samaritan woman:  
