@@ -7,6 +7,8 @@ tags:
 ---
 A Thanksgiving escape to the Eastern Sierra. We packed up the car with our cat and dog and headed to Mammoth Lakes for a few days of mountain scenery, hot springs, and quality family time.
 
+Both Lucy and Feynman behaved very well in the cramped space. Feynman showed great interest in the scenery and the driving experience. He frequently moved to the front seat to watch the view or sit in the driver's lap. 
+
 ## The Road Trip
 Driving with both a cat and a dog in the car is always an adventure.
 
