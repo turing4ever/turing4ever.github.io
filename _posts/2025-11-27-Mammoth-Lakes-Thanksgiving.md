@@ -22,15 +22,18 @@ Driving with both a cat and a dog in the car is always an adventure.
 
 ## Convict Lake
 ![Convict Lake](https://datadrivenway.com/media/2025_mammoth/convict_lake_jade.jpeg)
-[TODO: Add story about Convict Lake visit - the jade-colored water, hiking, weather conditions]
+On a sunny day, the scenery at Convict Lake is breathtaking.
 
 ## Wild Willy's Hot Springs
 ![Wild Willy's Hot Springs](https://datadrivenway.com/media/2025_mammoth/hot_springs_wild_willys.jpeg)
-[TODO: Add story about the hot springs experience]
+There are several hot springs in the Mammoth Lakes area, but Wild Willy's is the best. Sitting in the running hot spring water feels amazing—the temperature is perfect. Warm, but not too hot.
 
 ## Mountain Scenery
 ![Snow Mountains](https://datadrivenway.com/media/2025_mammoth/snow_mountains.jpeg)
 
 ![Dusk in the Mountains](https://datadrivenway.com/media/2025_mammoth/dusk_in_the_mountain.jpeg)
-[TODO: Add observations about the mountain views, sunset, weather]
 
+## A Wallet Finds Its Way Back
+The day before we left Mammoth Lakes, I took Ryan to Mammoth Mountain in a hurry. When I got back to the hotel, I couldn't find my wallet. Just then, my wife's phone rang. Someone asked if she was with me. I took her phone and talked to the guy—he told me where to meet him and returned my wallet.
+
+I never asked how he found my wife's number. I had a note with my own phone number in the wallet, but nothing with hers. How did he find her number, and why didn't he call me directly? It's a puzzle I still can't figure out.  
